@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I am **blurryrect**. A lazy developer that can do nothing~
+I am **blurryrect**, a lazy developer who does almost nothing~
 
 - 🔭 I’m currently working on **[a editor](https://github.com/blurryrect/zig-editor) written in zig**
 
 - 🌱 I’m currently learning **elixir, haskell, fpls etc.**
 
-- 👯 I'm working with **[plos-clan](https://github.com/plos-clan), a student developer community**
+- 👯 I'm working with **[plos-clan](https://github.com/plos-clan)**, a student developer community
 
 - 💬 Ask me about **rust, zig, os principles and some rabbit related**
 
