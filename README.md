@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**blurryrect/blurryrect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **blurryrect**. A lazy developer that can do nothing~
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **[a editor](https://github.com/blurryrect/zig-editor) written in zig**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **elixir, haskell, fpls etc.**
+
+- 👯 I'm working with **[plos-clan](https://github.com/plos-clan), a student developer community**
+
+- 💬 Ask me about **rust, zig, os principles and some rabbit related**
+
+### GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=blurryrect&show_icons=true)
